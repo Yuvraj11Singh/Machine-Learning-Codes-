@@ -1,5 +1,5 @@
-# ML-Lab-Records
-> A comprehensive collection of Machine Learning algorithms and experiments implemented during the B.Tech CSE Machine Learning Laboratory course.
+# Machine Learning Codes 
+> A comprehensive collection of Machine Learning algorithms and experiments.
 
 ## 📌 Project Overview
 This repository contains Python implementations of various machine learning models, ranging from fundamental statistical methods to advanced neural networks. Each directory includes the source code, dataset (or links), and a brief explanation of the results.
