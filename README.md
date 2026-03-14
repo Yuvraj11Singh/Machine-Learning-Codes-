@@ -29,6 +29,11 @@ This repository contains Python implementations of various machine learning mode
     ```
 3.  **Run Notebooks:** Open the `.ipynb` files in Jupyter or Colab to view the step-by-step execution.
 
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+See `LICENSE` file for details.
+
 ## 📝 Author
 **Yuvraj Singh**
 * B.Tech in Computer Science and Engineering
